@@ -1,0 +1,5 @@
+numpy==1.22.3
+pydicom~=2.3.0
+Pillow~=9.1.0
+opencv-python~=4.5.5.64
+matplotlib~=3.5.1
